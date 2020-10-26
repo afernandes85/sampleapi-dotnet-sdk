@@ -1,0 +1,22 @@
+# Visual Studio settings folder
+.vs/
+
+# Rider settings folder
+.idea/
+*.user
+
+# Build results
+bin/
+obj/
+
+# The packages folder can be ignored because of Package Restore
+packages/
+
+# MSTest test Results
+TestResults/
+
+# Nuget packages
+*.nupkg
+
+*.jar
+*.class
