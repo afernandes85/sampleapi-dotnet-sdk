@@ -4,7 +4,7 @@
 
 [![build](https://img.shields.io/github/workflow/status/factset/sampleapi-dotnet-sdk/CI)](https://github.com/factset/sampleapi-dotnet-sdk/actions?query=workflow%3ACI)
 [![nuget](https://img.shields.io/nuget/v/FactSet.SampleApi)](https://www.nuget.org/packages/FactSet.SampleApi)
-![API version](https://img.shields.io/badge/API-v2-blue)
+![API version](https://img.shields.io/badge/API-v1-blue)
 [![Apache-2 license](https://img.shields.io/badge/license-Apache2-brightgreen.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
 Use this library to integrate with FactSet's Sample APIs. Below APIs are supported by this SDK.
