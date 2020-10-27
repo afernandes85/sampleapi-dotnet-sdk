@@ -35,4 +35,5 @@ jobs:
         run: nuget pack -Build auto-generated-sdk/src/FactSet.SampleApi/FactSet.SampleApi.csproj
 
       - name: Publish the package to Nuget
-        run: dotnet nuget push FactSet.SampleApi.${GITHUB_REF}.nupkg
+        run: echo "Not configured"
+        # run: dotnet nuget push FactSet.SampleApi.${GITHUB_REF}.nupkg
