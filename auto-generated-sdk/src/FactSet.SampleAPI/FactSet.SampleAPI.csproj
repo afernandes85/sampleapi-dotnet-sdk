@@ -24,9 +24,9 @@ Contact: apiteam@swagger.io
     <FileAlignment>512</FileAlignment>
     <DocumentationFile>bin\$(Configuration)\$(TargetFramework)\FactSet.SampleAPI.xml</DocumentationFile>
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
-    <RepositoryUrl>https://github.com/factset/sampleapi-dotnet-sdk.git</RepositoryUrl>
+    <RepositoryUrl>https://github.factset.com/factset/sampleapi-dotnet-sdk.git</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
-    <PackageProjectUrl>https://github.com/factset/sampleapi-dotnet-sdk</PackageProjectUrl>
+    <PackageProjectUrl>https://github.factset.com/factset/sampleapi-dotnet-sdk</PackageProjectUrl>
     <PackageReleaseNotes>Refer to Changelog on GitHub source repository</PackageReleaseNotes>
     <PackageTags>FactSet;FDS;API;SampleAPI</PackageTags>
   </PropertyGroup>
