@@ -1,3 +1,10 @@
+---
+
+**Important note**
+This is a template repository to help get started with SDK generation process. Use this template to create your own repository and customize it as per your requirement. Also, refer [Sample API SDK Generator](https://github.factset.com/factset/sampleapi-sdk-generator) which is the start point of the SDK generation process and this repository is dependent on that.
+
+---
+
 <img alt="FactSet" src="https://www.factset.com/hubfs/Assets/images/factset-logo.svg" height="56" width="290">
 
 # Sample API .NET SDK
@@ -6,13 +13,6 @@
 [![nuget](https://img.shields.io/nuget/v/FactSet.SampleApi)](https://www.nuget.org/packages/FactSet.SampleApi)
 ![API version](https://img.shields.io/badge/API-v1-blue)
 [![Apache-2 license](https://img.shields.io/badge/license-Apache2-brightgreen.svg)](https://www.apache.org/licenses/LICENSE-2.0)
-
----
-
-**Important note**
-This is a template repository to help get started with SDK generation process. Use this template to create your own repository and customize it as per your requirement. Also, refer [Sample API SDK Generator](https://github.factset.com/factset/sampleapi-sdk-generator) which is the start point of the SDK generation process and this repository is dependent on that.
-
----
 
 Use this library to integrate with FactSet's Sample APIs. Below APIs are supported by this SDK.
 
